@@ -1,0 +1,49 @@
+body {
+    background-color: orange;
+    font-family: Arial, Hervetica, sans-serif;
+}
+div {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: cornsilk;
+    padding: 30px;
+}
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
+h1 {
+    text-align: center;
+    border-bottom: 5px solid orange;
+}
+h2 {
+    
+    border-bottom: 2px solid orange;
+    border-top: 2px solid orange;
+    margin-right: 50%;
+    
+}
+
+img {
+    width : 200px;
+    border: 2px solid orange;
+    float: right;
+    margin: 10px;
+}
+footer {
+    margin-top: 40px;
+    font-style: italic;
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 0px;
+}
+li {
+    text-align: justify;
+    margin-top: 20px;
+}
+ul {
+    margin-left: 60px;
+    margin-bottom: 40px;
+    
+}
